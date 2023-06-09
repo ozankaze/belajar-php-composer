@@ -2,10 +2,9 @@
 
 // 22
 
-require_once __DIR__ . "/vendor/autoload.php";
-
 use Programmerzamannow\BelajarPhpComposer\Data\People;
 
-$result = new People("Eko");
+require_once __DIR__ . "/vendor/autoload.php";
 
-echo $result->sayHello("Zan");
+$result = new People("Budi");
+echo $result->sayHello("Zan") . PHP_EOL;
