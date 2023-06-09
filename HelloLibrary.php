@@ -8,3 +8,4 @@ require_once __DIR__ . "/vendor/autoload.php";
 
 $customer = new Customer("Budi");
 echo $customer->sayHello("Zan") . PHP_EOL;
+echo $customer->sayHello() . PHP_EOL;

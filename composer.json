@@ -16,7 +16,7 @@
     "require": {
         "phpunit/php-timer" : "6.0.0",
         "php" : ">=8.0",
-        "programmerzamannow/belajar-php-composer-hello": "1.0.0"
+        "programmerzamannow/belajar-php-composer-hello": "2.0.0"
     },
     "repositories": [
         {

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e267284cc9ff581eb1b15ec3851a1c81",
+    "content-hash": "0319f42314d8d010a3ff845c47c67782",
     "packages": [
         {
             "name": "phpunit/php-timer",
@@ -67,16 +67,16 @@
         },
         {
             "name": "programmerzamannow/belajar-php-composer-hello",
-            "version": "1.0.0",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ozankaze/belajar-php-composer-library.git",
-                "reference": "4d1fdc61b7c89b11942a0942ed8c76565e1f9589"
+                "reference": "b68ada0b28ddbb6f968d0152de89c70d625ff515"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ozankaze/belajar-php-composer-library/zipball/4d1fdc61b7c89b11942a0942ed8c76565e1f9589",
-                "reference": "4d1fdc61b7c89b11942a0942ed8c76565e1f9589",
+                "url": "https://api.github.com/repos/ozankaze/belajar-php-composer-library/zipball/b68ada0b28ddbb6f968d0152de89c70d625ff515",
+                "reference": "b68ada0b28ddbb6f968d0152de89c70d625ff515",
                 "shasum": ""
             },
             "require": {
@@ -95,10 +95,10 @@
             ],
             "description": "Library Composer Hello",
             "support": {
-                "source": "https://github.com/ozankaze/belajar-php-composer-library/tree/1.0.0",
+                "source": "https://github.com/ozankaze/belajar-php-composer-library/tree/2.0.0",
                 "issues": "https://github.com/ozankaze/belajar-php-composer-library/issues"
             },
-            "time": "2023-06-08T15:40:05+00:00"
+            "time": "2023-06-09T18:48:59+00:00"
         }
     ],
     "packages-dev": [],
