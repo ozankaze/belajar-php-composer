@@ -23,5 +23,8 @@
             "type": "vcs",
             "url": "https://github.com/ozankaze/belajar-php-composer-library"
         }
-    ]
+    ],
+    "scripts": {
+        "hello": "echo 'Hello Guys'"
+    }
 }
